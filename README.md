@@ -1,4 +1,5 @@
 # 🚀 Customer Segmentation & Retention Analysis
+           https://customer-segmentation-retention-analysis-563.streamlit.app/?
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python">
